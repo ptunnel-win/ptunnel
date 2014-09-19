@@ -5,6 +5,9 @@ ptunnel 0.72 for windows
 
 ------------------------
 
+PingTunnel Read Me
+==================
+
 What is ptunnel?
 ----------------
 Ptunnel is an application that allows you to reliably tunnel TCP connections
