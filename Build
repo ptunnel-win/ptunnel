@@ -1,0 +1,1 @@
+gcc ptunnel.c md5.c -L"c:\Program Files\WpdPack\Lib" -I"c:\Program Files\WpdPack\Include" -lwpcap -lwsock32 -g -Wall -DWIN32 -o ptunnel.exe
